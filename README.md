@@ -1,0 +1,2 @@
+# EasyNews
+#news！
